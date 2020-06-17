@@ -362,3 +362,11 @@ p {
     display: none;
   }
 }
+
+.portfolio {
+  padding: 5rem 0;
+}
+.portfolio h1 {
+  color: var(--light-font);
+  text-align: center;
+}

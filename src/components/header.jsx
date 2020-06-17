@@ -16,14 +16,15 @@ const Header = () => {
           <div>
             <h1>Busayo Dawodu</h1>
             <p>
-              You'll probably find me inbetween analysing designs and engineering user interfaces that give great user
-              experience
+              I'm a <strong>Front-end</strong> software developer You'll probably find me inbetween analysing designs
+              and engineering user interfaces that give great user experience
             </p>
           </div>
 
           <div className="extra">
             <p>
-              I have high interest in UX engineering, design systems and progressive enhancements of web applications.
+              I have leading interest in such things as UX engineering, design systems, web Accessibility and
+              progressive enhancements of web applications.
             </p>
           </div>
         </div>

@@ -21,9 +21,10 @@ const About = () => (
 
         <div className="engineering-content engine">
           <p>
-            With my skillset in javaScript, I try as much as possible to make use of best practices and I develop code
-            bases that are scalable and performant. The end-goal for me is for the user to have the best experience
-            while using any product I'm involved in.
+            With my skillset in javaScript, I try as much as possible to make use of best practices and develop code
+            bases that are scalable and performant. I can also pick up and learn new tools and practices quickly in
+            required environments and integrate them with my workflow. The end-goal for me is for the user to have the
+            best experience while using any product I'm involved in.
           </p>
         </div>
       </div>
@@ -32,8 +33,13 @@ const About = () => (
           <p>
             I love good and intuitive designs and my current knowledge in design enables me to collaborate well with
             designers, produce pixel perfect web applications and also evaluate suitable designs for development. I am
-            also skilled in design principles like rapid prototyping, user research and user centered design principles
-            to name a few.
+            currently enrolled in an Interaction design Sepcialiazation on coursera which allows me to be skilled in
+            design principles like rapid prototyping, user research and user centered design principles to name a few. I
+            design through code
+            <span role="img" aria-label="grin">
+              {" "}
+              😁
+            </span>
           </p>
         </div>
         <div className="design-title">

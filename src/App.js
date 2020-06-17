@@ -4,6 +4,7 @@ import "./App.css";
 import Header from "./components/header";
 import About from "./components/about";
 import Quick from "./components/quick";
+import Portfolio from "./components/portfolio";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Header />
       <About />
       <Quick />
+      <Portfolio />
     </div>
   );
 };
