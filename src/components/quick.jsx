@@ -10,11 +10,15 @@ const Quick = () => (
 		<div className="quick-body">
 			<div className="quick-body_content">
 				<p>
-					Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-					classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin
-					professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words,
-					consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical
-					literature, discovered the undoubtable source. Lorem Ipsum comes from
+					I started programming in 2018 and started professionally in august 2019. As a graduate of psychology
+					with solid interest in technology, I have been able to find balance between having empathy for Users
+					and tackling their needs by leveraging technological tools. In the course of my professional career
+					I've worked with start Innovation Hub where I've worked on 3 projects .In the course of my stay
+					there , I was selected my PIND(Patnership Initiatives in the Niger Delta), to tutor and mentor
+					selected members of the Project create programme in Front end development. Majority of them have
+					gone on to get various jobs in the field. I was also selected to participate in the FSI Hackathon
+					sponsored by Sterling bank where I lead a team(Aibug) of four to win the first price in the
+					South-South geo -politcal zone.
 				</p>
 			</div>
 			<div className="quick-body_image">
