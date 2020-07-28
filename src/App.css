@@ -23,7 +23,7 @@ p {
 }
 .icons {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: center;
 	margin: 1rem;
 }
 @media only screen and (max-width: 768px) {
@@ -597,6 +597,8 @@ textarea {
 	width: 70%;
 	outline: none;
 	background: none;
+	/* height: 10rem; */
+	resize: none;
 }
 .btn-submit {
 	color: white;
