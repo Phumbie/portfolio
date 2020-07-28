@@ -59,7 +59,7 @@ svg {
 	/* background-color: brown; */
 	background-size: contain;
 	background-position: right;
-	min-height: 90vh;
+	/* min-height: 90vh; */
 	/* width: 100%; */
 	background-repeat: no-repeat;
 }
@@ -75,7 +75,7 @@ svg {
 	width: 70%;
 	margin: auto;
 	/* padding: 2em 0; */
-	height: 80vh;
+	height: 45rem;
 	justify-content: space-between;
 }
 @media only screen and (max-width: 768px) {
