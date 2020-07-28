@@ -10,16 +10,14 @@ const Quick = () => (
 		<div className="quick-body">
 			<div className="quick-body_content">
 				<p>
-					I started programming in 2018 and started professionally in august 2019. As a graduate of psychology
-					with solid interest in technology, I have been able to find balance between having empathy for Users
-					and tackling their needs by leveraging technological tools. In the course of my professional career
-					I've worked with start Innovation Hub where I've worked on several projects, learned how to work in
-					an agile team and also picking new tools as the task demands.In the course of my stay there , I was
-					selected my PIND(Patnership Initiatives in the Niger Delta), to tutor and mentor selected members of
-					the Project create programme in Front end development. Majority of them have gone on to get various
-					jobs in the field. I was also selected to participate in the FSI Hackathon sponsored by Sterling
-					bank where I lead a team(Aibug) of four to win the first price in the South-South geo -politcal
-					zone.
+					As I kick-started my journey in web-development, I was opportuned to work with Start Innovation Hub,
+					one of the leading tech companies in the Niger Delta Region of Nigeria where I worked on several
+					projects.I learned how to work in an agile team and also picking new tools as the task demands.In
+					the course of my stay there , I was selected by PIND(Patnership Initiatives in the Niger Delta), to
+					tutor and mentor selected members of the Project create programme in Front end development. Majority
+					of them have gone on to get various jobs in the field. I was also selected to participate in the FSI
+					Hackathon sponsored by Sterling bank where I lead a team(Aibug) of four to win the first price in
+					the South-South geo-politcal zone.
 				</p>
 			</div>
 			<div className="quick-body_image">
