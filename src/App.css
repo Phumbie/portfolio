@@ -34,11 +34,14 @@ p {
 svg {
 	margin: 0 0.5rem;
 	cursor: pointer;
+	transition: all 0.5s ease-out;
+	fill: var(--dark-theme);
 }
-/* svg:hover {
+svg:hover {
 	fill: var(--primary-color);
 	color: var(--primary-color);
-} */
+	transform: scale(1.1, 1.1);
+}
 .nav {
 	display: flex;
 	justify-content: space-between;

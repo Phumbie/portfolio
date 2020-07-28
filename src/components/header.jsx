@@ -41,7 +41,6 @@ const Header = () => {
 										data-original="#000000"
 										class="active-path"
 										data-old_color="#000000"
-										fill="#282626"
 									/>
 								</g>{' '}
 							</svg>
@@ -60,7 +59,6 @@ const Header = () => {
 										data-original="#000000"
 										class="active-path"
 										data-old_color="#000000"
-										fill="#282626"
 									/>
 								</g>{' '}
 							</svg>
@@ -80,7 +78,6 @@ const Header = () => {
 										data-original="#000000"
 										class="active-path"
 										data-old_color="#000000"
-										fill="#282626B"
 									/>
 								</g>{' '}
 							</svg>
