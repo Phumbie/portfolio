@@ -624,3 +624,7 @@ textarea {
 		margin: auto;
 	}
 }
+.tools {
+	margin-top: 0.5rem;
+	color: var(--second-font);
+}
