@@ -22,7 +22,7 @@ const Quick = () => (
 			</div>
 			<div className="quick-body_image">
 				<div className="quick-body_image_wrapper">
-					<img class="eng-image" src="/images/quick.svg" alt="" />
+					<img className="eng-image" src="/images/quick.svg" alt="" />
 				</div>
 			</div>
 		</div>

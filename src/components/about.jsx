@@ -7,7 +7,7 @@ const About = () => (
 		</div>
 		<div className="about-body">
 			<div className="left-line">
-				<img class="eng-image" src="/images/left-line5.svg" alt="" />
+				<img className="eng-image" src="/images/left-line5.svg" alt="" />
 			</div>
 			<div className="engineering">
 				<div className="engineering-title">
@@ -26,7 +26,7 @@ const About = () => (
 						practices quickly in required environments and integrate them with my workflow. The end-goal for
 						me is for the user to have the best experience while using any product I'm involved in.
 					</p>
-					<h3 class="tools">
+					<h3 className="tools">
 						{' '}
 						<span>Tools:</span> Vue, Nuxt , React , Vuex, Jest, jQuery, javaScript, EsLint, CSS3, Firebase,
 						Netlify
@@ -46,7 +46,7 @@ const About = () => (
 							😁
 						</span>
 					</p>
-					<h3 class="tools">
+					<h3 className="tools">
 						{' '}
 						<span>Tools:</span> Adobe XD, Figma, PhotoShop, Corel Draw, Pen and Paper😉
 					</h3>
@@ -60,7 +60,7 @@ const About = () => (
 					</div>
 				</div>
 				<div className="right-line">
-					<img class="eng-image" src="/images/right-line5.svg" alt="" />
+					<img className="eng-image" src="/images/right-line5.svg" alt="" />
 				</div>
 			</div>
 		</div>

@@ -58,15 +58,19 @@ svg:hover {
 	height: 3em;
 }
 .header {
-	background: linear-gradient(90deg, var(--dark-theme) 70%, var(--light-font) 30%);
+	/* background: linear-gradient(90deg, var(--dark-theme) 70%, var(--light-font) 30%); */
 	/* background-color: brown; */
 	background-size: contain;
 	background-position: right;
 	/* min-height: 90vh; */
 	/* width: 100%; */
+	background-color: var(--light-font);
 	background-repeat: no-repeat;
 }
 
+/* .header-description p {
+	color: var(--dark-theme);
+} */
 @media only screen and (max-width: 768px) {
 	.header {
 		background: linear-gradient(180deg, var(--dark-theme) 70%, var(--light-font) 30%);
@@ -93,7 +97,7 @@ svg:hover {
 	width: 70%;
 }
 .header-body p {
-	color: var(--light-font);
+	color: var(--dark-theme);
 	width: 60%;
 	margin-top: 10px;
 }
@@ -138,7 +142,7 @@ svg:hover {
 }
 
 .extra p {
-	color: var(--light-font);
+	color: var(--dark-theme);
 	font-weight: 600;
 	/* line-height: 1.5em; */
 }
