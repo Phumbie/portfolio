@@ -28,7 +28,7 @@ const About = () => (
 					</p>
 					<h3 className="tools">
 						{' '}
-						<span>Tools:</span> Vue, Nuxt , React , Vuex, Jest, jQuery, javaScript, EsLint, CSS3, Firebase,
+						<span>Tools:</span> Vue, Nuxt , React , Vuex, Jest, jQuery, javaScript, EsLint, CSS3, StorybookJs, NodeJS, Express, MongoDB, GSAP Firebase,
 						Netlify
 					</h3>
 				</div>
